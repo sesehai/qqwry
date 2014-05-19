@@ -1,7 +1,6 @@
 package main
 
 import (
-	qqwry "github.com/sesehai/qqwry"
 	"fmt"
 )
 
