@@ -1,10 +1,11 @@
-package main
+package qqwry 
 
 import (
+	"testing"
 	"fmt"
 )
 
-func main() {
+func TestQQwry(t *testing.T) {
 	var ip = "112.0.91.210"
 	var qqwryfile = "./qqwry.dat"
 	fmt.Println(ip)
